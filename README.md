@@ -3,11 +3,12 @@ This repo is a collection of functions that I've written for my own personal cos
 
 Prerequisites: ccl, numpy, scipy
 for installation of ccl in python/jupyter, use commands:
+```console
 $ conda install -c conda-forge pyccl
 $ pip install -v git+https://github.com/sfschen/velocileptors
-
-for installation of ccl in colab, run the following:
 ```
+for installation of ccl in colab, run the following:
+```py
 !conda install -c conda-forge pyccl
 import sys
 sys.path.append('/path/to/pyccl/module')
