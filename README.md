@@ -14,7 +14,7 @@ import sys
 sys.path.append('/path/to/pyccl/module')
 !python3 -m pip install -v git+https://github.com/sfschen/velocileptors
 ```
-ccl repo: https://github.com/LSSTDESC/CCL
+ccl repo: https://github.com/LSSTDESC/CCL <br>
 ccl documentation: https://ccl.readthedocs.io/en/latest/
 
 Validated for python 3.12.2
